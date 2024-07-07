@@ -1,0 +1,79 @@
+.h2america {
+    padding-bottom: 40px;
+}
+
+.p-america {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 00px;
+    color: black;
+
+}
+
+.p-acordeon {
+    color: black;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.p-inacordeon {
+    color: black;
+    display: block;
+    padding: 30px;
+    justify-content: center;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.videofinal {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.grids {
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: 1fr 1fr;
+}
+
+.grid-item {
+    color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+
+.acordeon-body {
+background-color: white;
+}
+
+
+.titulo-acordeon {
+
+    color: black;
+    justify-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.acordeon-header {
+    border: 2px solid gold;
+}
+
+.accordion-button {
+    background-image: linear-gradient(to bottom, #a8eeeb, #b9f0f8, #cef2ff, #e2f5ff, #f2f8ff, #f2f8ff, #f2f8ff, #f2f8ff, #e2f5ff, #cef2ff, #b9f0f8, #a8eeeb);    justify-content: center;
+    text-align: center;
+    display: block;
+    font-family: cursive;
+    font-size: large;
+    padding: 5px;
+    margin: 5px;
+    }

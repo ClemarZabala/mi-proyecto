@@ -1,0 +1,30 @@
+
+
+.resumen {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    padding: 20px;
+}
+
+.imagen-messi {
+    display:flexbox;
+    justify-content: center;
+    text-align: center;
+    padding: 50px;
+
+}
+
+.messicopa {
+    width: 100%;
+    height: 100%;
+    border: 1px solid white;
+}
+
+.p-foter{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid gold;
+    display: grid;
+}

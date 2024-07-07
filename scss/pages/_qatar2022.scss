@@ -1,0 +1,50 @@
+h3 {
+    font-style: italic;
+    display: block;
+    margin: 50px;
+    justify-content: center;
+    text-align: center;
+    border: 1px solid white;
+    color: gold;
+    padding: 10px;
+    background-color: $colorafa;
+    border-radius: 25px;
+}
+
+.qatar {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+    margin: 20px;
+}
+
+.imagenes {
+    justify-content:center;
+    text-align: center;
+    padding: 10px;
+    display: flexbox;
+
+}
+
+.imagen1 {
+    width: 50%;
+    height: 50%;
+    border: 1px solid white;
+    margin: 10px;
+
+}
+
+.imagen2 {
+    width: 50%;
+    height: 50%;
+    border: 1px solid white;
+    margin: 10px;
+}
+
+.imagen3 {
+
+    width: 100%;
+    height: 100%;  
+    border: 1px solid white;
+    margin: 10px;
+
+}

@@ -1,0 +1,59 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    padding: 25px;
+    justify-content: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: black;
+}
+
+
+
+
+#titulo {
+    display: flex;
+    justify-content: center;
+    margin-top: 0px;
+    padding: 25px;
+    justify-content: center;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.menu {
+    display: block;
+    justify-content: center;
+    padding: 0px;
+    text-align: center;
+
+}
+
+.navbar-nav {
+    padding: 0px;
+    margin: 0px;
+
+}
+
+.nav-item {
+    background-color: $colorafa;
+    margin-left: 0px;
+    margin-right: 0px;
+    color: black;
+
+
+    :hover {
+        background-color: rgb(147, 234, 249);
+        color: black;
+        border: 1px solid gold;
+
+    }
+
+}
+
