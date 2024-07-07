@@ -82,10 +82,10 @@ p {
 }
 
 .fotos {
-  justify-content: center;
-  text-align: center;
   margin: 5px;
   background-color: black;
+  text-align: center;
+  display: block;
 }
 
 .copa {
@@ -222,7 +222,7 @@ footer img {
 
 .p-sobrenosotros {
   padding: 50px;
-  justify-content: center;
+  text-align: center;
   display: flex;
 }
 
@@ -234,6 +234,7 @@ h3 {
   display: block;
   color: white;
   text-align: center;
+  padding: 50px;
 }
 
 .fuente1 {
@@ -249,7 +250,6 @@ h3 {
   margin: 5px;
   color: black;
   border-radius: 10px;
-  display: block;
 }
 
 .coderhouse {
