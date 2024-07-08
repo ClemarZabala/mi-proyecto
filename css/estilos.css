@@ -223,8 +223,7 @@ footer img {
 .p-sobrenosotros {
   height: 90%;
   padding: 30px;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
+  display: inline-flex;
   justify-self: center;
   text-align: center;
   padding: 10px;
