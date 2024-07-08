@@ -22,15 +22,16 @@ p {
     margin: 5px;
     background-color: black;
     text-align: center;
+    display: flexbox;
 }
 
 .copa {
     margin-bottom: 25px;
     margin-top: 10px;
-    height: 500px;
+    height: 100%;
     justify-content: center;
-    text-align: center;
-    display: flexbox;
+    width: 80%;
+
 
 }
 
