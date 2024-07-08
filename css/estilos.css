@@ -221,12 +221,13 @@ footer img {
 }
 
 .p-sobrenosotros {
-  padding: 50px;
-  text-align: center;
-  display: flex;
   height: 90%;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 30px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  justify-self: center;
+  text-align: center;
+  padding: 10px;
 }
 
 .fuentes {
