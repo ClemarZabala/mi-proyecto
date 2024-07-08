@@ -93,6 +93,7 @@ p {
   height: 500px;
   justify-content: center;
   text-align: center;
+  display: flexbox;
 }
 
 .p-fotos {
